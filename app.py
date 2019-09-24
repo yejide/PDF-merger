@@ -11,5 +11,5 @@ def pdfMerger(file_names, output):
 
 
 output = "combined_files.pdf"
-file_names = ["I94 - Official Website.pdf", "RESUME.pdf"]
+file_names = ["example1.pdf", "example2.pdf"]
 pdfMerger(file_names, output)
